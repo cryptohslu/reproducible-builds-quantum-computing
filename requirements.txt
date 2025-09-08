@@ -1,0 +1,12 @@
+diffoscope
+gmpy2
+jupyterlab
+matplotlib
+pillow
+pylatexenc
+qiskit
+qiskit_aer
+qiskit_ibm_runtime
+qiskit-leaky-init
+qiskit-leaky-layout
+qiskit-leaky-scheduling

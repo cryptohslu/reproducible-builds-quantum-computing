@@ -1,0 +1,9 @@
+[submodule "qiskit_plugins/qiskit-leaky-init"]
+	path = qiskit_plugins/qiskit-leaky-init
+	url = https://github.com/iyanmv/qiskit-leaky-init.git
+[submodule "qiskit_plugins/qiskit-leaky-layout"]
+	path = qiskit_plugins/qiskit-leaky-layout
+	url = https://github.com/iyanmv/qiskit-leaky-layout.git
+[submodule "qiskit_plugins/qiskit-leaky-scheduling"]
+	path = qiskit_plugins/qiskit-leaky-scheduling
+	url = https://github.com/iyanmv/qiskit-leaky-scheduling.git
