@@ -1,8 +1,8 @@
 # Reproducible Builds for Quantum Computing
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cryptohslu/reproducible-builds-quantum-computing/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2F0_index.ipynb)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.02251-b31b1b.svg)](https://arxiv.org/abs/2510.02251)
 
-Supplemental material for the paper "Reproducible Builds for Quantum Computing".
-
+Supplemental material for the paper ["Reproducible Builds for Quantum Computing"](https://arxiv.org/abs/2510.02251).
 
 ## Jupyter notebooks
 
@@ -51,3 +51,17 @@ cd ../qiskit-leaky-scheduling && pip install .
 ## Acknowledgements
 
 This work was supported by the Swiss National Science Foundation Practice-to-Science Grant No 199084.
+
+## Citation
+
+```bibtex
+@misc{arXiv2510.02251,
+  title={Reproducible Builds for Quantum Computing},
+  author={Iyán Méndez Veiga and Esther Hänggi},
+  year={2025},
+  eprint={2510.02251},
+  archivePrefix={arXiv},
+  primaryClass={quant-ph},
+  url={https://arxiv.org/abs/2510.02251},
+}
+```
