@@ -4,9 +4,9 @@ jupyterlab
 matplotlib
 pillow
 pylatexenc
-qiskit
+qiskit==2.3.0
 qiskit_aer
-qiskit_ibm_runtime
+qiskit_ibm_runtime==0.45.0
 qiskit-leaky-init
 qiskit-leaky-layout
 qiskit-leaky-scheduling
