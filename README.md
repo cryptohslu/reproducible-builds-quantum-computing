@@ -7,7 +7,7 @@ Supplemental material for the paper ["Reproducible Builds for Quantum Computing"
 ## Jupyter notebooks
 
 The [notebooks](./notebooks) directory contains Jupyter notebooks with more technical details of all the examples
-described in Sections 6 and 7. You can run these notebooks on the cloud [here](https://mybinder.org/v2/gh/cryptohslu/reproducible-builds-quantum-computing/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2F0_index.ipynb)
+described in Sections 6 and 7. You can run these notebooks on the cloud <a href="https://mybinder.org/v2/gh/cryptohslu/reproducible-builds-quantum-computing/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2F0_index.ipynb" target="_blank">here</a>)
 using [Binder](https://mybinder.org/).
 
 Alternatively, if you prefer to run them locally on your computer, we recommend creating a Python virtual enviroment and
