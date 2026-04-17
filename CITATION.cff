@@ -1,5 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+title: "Reproducible Builds for Quantum Computing"
+doi: arXiv:2510.02251
 authors:
 - family-names: "Méndez Veiga"
   given-names: "Iyán"
@@ -8,7 +10,7 @@ authors:
   given-names: "Esther"
   orcid: "https://orcid.org/0000-0002-9760-8535"
 preferred-citation:
-  type: misc
+  type: article
   authors:
   - family-names: "Méndez Veiga"
     given-names: "Iyán"
@@ -18,7 +20,8 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0002-9760-8535"
   title: "Reproducible Builds for Quantum Computing"
   year: 2025
-  eprint: "2510.02251"
-  archivePrefix: "arXiv"
-  primaryClass: "quant-ph"
   url: "https://arxiv.org/abs/2510.02251"
+  identifiers:
+    - type: other
+      value: "arXiv:2510.02251"
+      description: "arXiv preprint"
